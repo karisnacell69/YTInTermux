@@ -1,26 +1,23 @@
-# 💀 DARK PANEL CYBER
+# 💀 DARK LICENSE SYSTEM
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Status](https://img.shields.io/badge/Status-Active-success)
-![UI](https://img.shields.io/badge/UI-Hacker-black)
-
-> ⚡ Panel YouTube berbasis Flask dengan tampilan cyber hacker style 😈
+![Status](https://img.shields.io/badge/System-Active-success)
+![Security](https://img.shields.io/badge/Security-License-blue)
+![Mode](https://img.shields.io/badge/Mode-Cyber-black)
 
 ---
 
 ## 🚀 FITUR
-- 🔐 Login system (secure)
-- 🎬 Play YouTube langsung (mpv)
-- ⬇ Download MP3 otomatis
-- 🌌 UI Matrix Hacker
-- 📱 Responsive semua device
-- 🌍 Bisa online (Cloudflare Tunnel)
+- 🔐 License system online
+- ⏳ Expired otomatis
+- 💀 Script Termux client
+- 🌐 Admin panel
+- 💰 Siap monetisasi
 
 ---
 
-## ⚙️ INSTALL (TERMUX)
+## ⚙️ INSTALL SERVER
 
 ```bash
 pkg update -y
-pkg install python mpv git cloudflared -y
-pip install flask yt-dlp
+pkg install python cloudflared -y
+pip install flask
